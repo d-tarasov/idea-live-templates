@@ -221,5 +221,29 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
+  <template name="swc" value="style=&quot;@style/WrapContent&quot;" description="Apply WrapContent style to element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="smp" value="style=&quot;@style/MatchParent&quot;" description="Apply MatchParent style to element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="shw" value="style=&quot;@style/HorizontalWrapping&quot;" description="Apply HorizontalWrapping style to element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="svw" value="style=&quot;@style/VerticalWrapping&quot;" description="Apply VerticalWrapping style to element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
 
