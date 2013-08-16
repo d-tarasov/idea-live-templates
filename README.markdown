@@ -7,7 +7,7 @@ Just copy and paste file Android.xml to directory with other live templates
 ###Android Studio
 - Windows: %user_home%\AppData\Local\Android\android-studio\config\templates
 - Linux: 
-- MacOS:
+- MacOS: ~/Library/Preferences/AndroidStudioPreview/templates
 
 ###IntelliJ IDEA
 - Windows: %user_home%\.%product_name%%version_number%\config\templates
